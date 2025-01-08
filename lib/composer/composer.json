@@ -1,0 +1,20 @@
+{
+    "name": "wef/calendar",
+    "description": "Calendário Agenda de Ensaios com PHP e JS",
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"../../class",
+            "Models\\":"../../model",
+
+            "Wef\\Calendar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Correia",
+            "email": "lucasdevproject@gmail.com"
+        }
+    ],
+    "require": {}
+    
+}
