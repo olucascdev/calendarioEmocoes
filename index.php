@@ -1,7 +1,5 @@
-<?php
-include("config/config.php");
+<?php include("config/config.php");?>
 
-?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -14,8 +12,6 @@ include("config/config.php");
     
 </head>
 <body>
-
     <div id="calendar"></div>
- 
 </body>
 </html>
